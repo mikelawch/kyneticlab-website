@@ -1,32 +1,32 @@
 [
     {
-        "title": "Starter",
-        "description": "Best option for personal use & for your next project",
-        "price": 29,
-        "devCount": "1 developer",
-        "support": "6 months",
-        "update": "6 months",
-        "action": "Get Started",
-        "link": "/"
+        "title": "基础版",
+        "description": "帮助个体用户快速开始您的体验",
+        "price": 2999,
+        "devCount": "1家门店",
+        "support": "6个月",
+        "update": "6个月",
+        "action": "开始使用",
+        "link": "/#contact"
     },
     {
-        "title": "Company",
-        "description": "Relevant for multiple users, extended & premium support",
-        "price": 99,
-        "devCount": "10 developers",
-        "support": "24 months",
-        "update": "24 months",
-        "action": "Get Started",
-        "link": "/"
+        "title": "高级版",
+        "description": "小规模多门店用户，提供专属技术支持服务",
+        "price": 19999,
+        "devCount": "10家门店",
+        "support": "24个月",
+        "update": "24个月",
+        "action": "开始使用",
+        "link": "/#contact"
     },
     {
-        "title": "Enterprise",
-        "description": "Best for large scale uses and extended redistribution rights",
-        "price": 499,
-        "devCount": "100+ developers",
-        "support": "36 months",
-        "update": "36 months",
-        "action": "Get Started",
-        "link": "/"
+        "title": "企业版",
+        "description": "适合大规模连锁企业客户，分布在多个不同区域",
+        "price": 99999,
+        "devCount": "100+门店",
+        "support": "36个月",
+        "update": "36个月",
+        "action": "开始使用",
+        "link": "/#contact"
     }
 ]
