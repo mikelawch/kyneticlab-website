@@ -8,7 +8,7 @@ const menuitems = [
   { href: '/about', label: '关于我们' },
 ];
 
-const navButton = { href: '#', label: '联系我们' };
+const navButton = { href: '#contact', label: '联系我们' };
 ---
 
 <div class="mt-20">
@@ -17,7 +17,7 @@ const navButton = { href: '#', label: '联系我们' };
       <Astronav>
         <div class="flex w-full lg:w-auto items-center justify-between">
           <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse">
-            <img src="/Logo.svg" class="h-8" alt="Logo" />
+            <img src="/Logo.svg" class="h-8" alt="Logo" /> <span class="text-xl text-black font-medium">动能实验室</span>
           </a>
           <div class="block lg:hidden">
             <div id="menu-icon" class="w-8 h-8 text-black cursor-pointer">
@@ -39,7 +39,7 @@ const navButton = { href: '#', label: '联系我们' };
               <li>
                 <a 
                   href={item.href} 
-                  class="mobile-nav-link block py-2 px-3 text-black rounded lg:bg-transparent lg:p-0"
+                  class="mobile-nav-link block py-2 px-3 text-xl text-black rounded lg:bg-transparent lg:p-0"
                   data-close-menu="true"
                 >
                   {item.label}
