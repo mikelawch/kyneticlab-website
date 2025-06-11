@@ -6,5 +6,4 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   site: "https://mikelawch.github.io",
   integrations: [tailwind()],
-  base: "/kyneticlab-website",
 });
