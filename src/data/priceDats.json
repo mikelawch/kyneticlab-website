@@ -1,7 +1,7 @@
 [
     {
         "title": "基础版",
-        "description": "帮助个体用户快速开始您的体验",
+        "description": "帮助个体用户快速开始",
         "price": 2999,
         "devCount": "1家门店",
         "support": "6个月",
@@ -21,7 +21,7 @@
     },
     {
         "title": "企业版",
-        "description": "适合大规模连锁企业客户，分布在多个不同区域",
+        "description": "适合大规模连锁企业，分布在多个不同区域",
         "price": 99999,
         "devCount": "100+门店",
         "support": "36个月",
